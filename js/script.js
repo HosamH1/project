@@ -12,4 +12,4 @@ function fetchJoke() {
 
 // Event listener for the "Get a New Joke" button click
 const newJokeBtn = document.getElementById('newJokeBtn');
-newJokeBtn.addEventListener('click', fetchJ
+newJokeBtn.addEventListener('click', fetchJoke);
