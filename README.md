@@ -22,7 +22,7 @@ git clone https://github.com/SamLovesJava/project
 cd your-repository
 3. Open the `index.html` file in your web browser.
 
-4. Click on "OK" to generate a new joke.
+4. Click on "Get a New Joke" to generate a new joke.
 
 ## Technologies Used
 
